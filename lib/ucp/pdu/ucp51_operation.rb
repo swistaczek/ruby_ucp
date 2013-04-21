@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 =begin
 Ruby library implementation of EMI/UCP protocol v4.6 for SMS
 Copyright (C) 2011, Sergio Freire <sergio.freire@gmail.com>
